@@ -21,5 +21,5 @@ Please adhere to this project's `code of conduct`.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mailto:illusiolang@outlook.com
+If you have any feedback, please reach out to us at illusiolang@outlook.com
 
